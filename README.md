@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=violet666666&bg_color=050F2C&color=00AEFF&line=2DDE98&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=violet666666&theme=algolia" alt="Contribution Graph" />
 </p>
 
 ---
